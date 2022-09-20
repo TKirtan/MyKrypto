@@ -1,4 +1,4 @@
-<a href="[https://mykrypto.online/](https://my-krypto.netlify.app/)" target="_blank"><h1 align="center">My Krypto - Web 3.0 BlockChain Application</h1></a>
+<a href="https://my-krypto.netlify.app/" target="_blank"><h1 align="center">My Krypto - Web 3.0 BlockChain Application</h1></a>
 
 <div align="center">
   <h3>My Krypto is a dynamically designed BlockChain Web 3.0 Application created by ReachJS, Solidity and, Metamask.</h3>
